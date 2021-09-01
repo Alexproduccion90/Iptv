@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="NOTICIAS",RT TV
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",TELESUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8 
+
+#EXTINF:-1 group-title="NOTICIAS",CANAL 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8  
+
+#EXTINF:-1 group-title="GENERALISTA",TVN
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/playlist_dvr.m3u8 
+
+#EXTINF:-1 group-title="GENERALISTA",TVMAX
+https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8  
+
+#EXTINF:-1 group-title="GENERALISTA",AZ MUNDO
+https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/AZMUNDO.m3u8  
+
+#EXTINF:-1 group-title="NOVELAS",AZ CORAZON
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCORAZON/hls/AZCORAZON.m3u8 
+
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN
+https://qlobbidev.s.llnwi.net/bpk-tv/GOLDEN/hls/GOLDEN.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",GOLDEN EDGE
+https://qlobbidev.s.llnwi.net/bpk-tv/GEDGE/hls/GEDGE.m3u8 
+
+#EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA
+https://qlobbidev.s.llnwi.net/bpk-tv/AZCINEMA/hls/AZCINEMA.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES",DE PELICULA 
+https://qlobbidev.s.llnwi.net/bpk-tv/DEPELICULA/hls/DEPELICULA.m3u8
+
+#EXTINF:-1 group-title="DEPORTES",FOX SPORT
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORTS/hls/FOXSPORTS.m3u8
+
+#EXTINF:-1 group-title=”DEPORTES”,FOX SPORT 2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT2/hls/FOXSPORT2.m3u8
+
+#EXTINF:-1 group-title=”DEPORTES”,FOX SPORT 3
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT3/hls/FOXSPORT3.m3u8
+
+#EXTINF:-1 group-title=”DEPORTES”,ESPN 2
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/ESPN2.m3u8
+
+#EXTINF:-1 group-title=”DEPORTES”,ESPN 3
+https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/ESPN3.m3u8
